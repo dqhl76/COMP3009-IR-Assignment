@@ -1,3 +1,9 @@
+This repo used for archived the assignment of COMP3009 Information Retreval.
+
+It is a very interesting assignment. It will give you the illusion that I can hand make an search engine.🥲
+
+(There is a lesson at the end of this course devoted to modern search engines, and it will frustrate you.🫤)
+
 ## Introduction
 **The program could work on both corpus(small / large)**
 
